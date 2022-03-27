@@ -2,10 +2,10 @@ Here is a repository for translations of the "Here's Where and How You Are Most 
 
 
 ### English
-[Here's Where and How You Are Most Likely to Catch COVID](https://theconversation.com/heres-where-and-how-you-are-most-likely-to-catch-covid-new-study-174473)
+- [Here's Where and How You Are Most Likely to Catch COVID](https://theconversation.com/heres-where-and-how-you-are-most-likely-to-catch-covid-new-study-174473)
 
 ### Español
-[¿Dónde y cómo es más probable contagiarse de covid-19?](https://theconversation.com/donde-y-como-es-mas-probable-contagiarse-de-covid-19-174808)
+- [¿Dónde y cómo es más probable contagiarse de covid-19?](https://theconversation.com/donde-y-como-es-mas-probable-contagiarse-de-covid-19-174808)
 
 
 ### فارسی
