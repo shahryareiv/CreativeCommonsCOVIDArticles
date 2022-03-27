@@ -1,40 +1,18 @@
 ## A Translation Repository for "Here's Where and How You Are Most Likely to Catch COVID" Article
 
-You can use the [editor on GitHub](https://github.com/shahryareiv/Here-s-Where-and-How-You-Are-Most-Likely-to-Catch-COVID-Translations/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here is a repository for translations of the "Here's Where and How You Are Most Likely to Catch COVID" article. The article is published under Creative Commons license (check the original version [here](https://theconversation.com/heres-where-and-how-you-are-most-likely-to-catch-covid-new-study-174473)).Please feel free to add other translations, either directly using Github, or simply send me the contents.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### English
-### English
+[Here's Where and How You Are Most Likely to Catch COVID](https://theconversation.com/heres-where-and-how-you-are-most-likely-to-catch-covid-new-study-174473)
+
+### Español
+[¿Dónde y cómo es más probable contagiarse de covid-19?](https://theconversation.com/donde-y-como-es-mas-probable-contagiarse-de-covid-19-174808)
+
+
 ### فارسی
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shahryareiv/Here-s-Where-and-How-You-Are-Most-Likely-to-Catch-COVID-Translations/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- [در کجا (و چگونه) بیشترین احتمال ابتلا به کوید (کرونا) وجود دارد - یک پژوهش جدید](https://github.com/shahryareiv/Here-s-Where-and-How-You-Are-Most-Likely-to-Catch-COVID-Translations/raw/main/Persian/heres-where-and-how-you-are-most-likely-to-catch-covid-new-study.fa.pdf)
+- [سایر فایل‌ها](https://github.com/shahryareiv/Here-s-Where-and-How-You-Are-Most-Likely-to-Catch-COVID-Translations/tree/main/Persian)
